@@ -13,6 +13,14 @@ tags:
   - Productivity
 image: https://canvas.hrcd.fr/articles/5-raycast-snippets.jpg
 readingTime: "10"
+ogImage:
+  props: {}
+schemaOrg: {}
+head:
+  script: []
+sitemap:
+  videos: []
+  images: []
 ---
 
 ![preview](/articles/5-raycast-snippets.jpg)
@@ -31,7 +39,7 @@ For instance, if you have a snippet for a standard email sign-off, you can assig
 
 ![snippets-exemple](/articles/snippets-exemple.gif)
 
-### Component Template: `!comp`
+### Component Tem`plate`:
 
 The `!comp` snippet is a basic yet powerful template for creating new Vue components. It includes a script setup with TypeScript support, a template section, and scoped styling. This snippet is ideal for rapidly scaffolding new components in your project.
 
